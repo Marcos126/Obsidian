@@ -9,13 +9,13 @@ Quiero tomar este curso para poder ganar habilidades que me permitan aprender co
 
 # Habilidades que espero aprender
 Poder tomar buenas notas: **Done**
-	[[Aprende a tomar notas efectivas]]
+- [[Aprende a tomar notas efectivas]]
 Poder aprender de manera rapida y sin olvidar todo a los pocos dias: **Done**
-	[[Como comprender lo que aprendes]]
+- [[Como comprender lo que aprendes]]
 Poder organizar mis horarios para estudiar:
-	
+- [[Crea sistema de organizacion]]
 Poder tener metodos de estudio para ser eficiente:
-	
+- [[Metodo de estudio OnLine]]
 # Actividades que vamos a realizar
 - Desarrolar plan de estudio de estudio de 5 paso
 - Organizacion

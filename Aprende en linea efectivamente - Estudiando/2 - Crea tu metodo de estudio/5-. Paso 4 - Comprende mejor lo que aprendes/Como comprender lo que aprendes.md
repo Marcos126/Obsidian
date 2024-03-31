@@ -35,7 +35,7 @@ Hay que simplificar las ideas clave con tus propias palabras para no caer en sol
 ### 5 - El poder de la enseñanza (**Protege**)
 Cuando tenemos la responsabilidad de explicarle a otra persona tendemos a aprender mucho mejor.
 
-#ReglaDeOro 
+# #ReglaDeOro
 ![[Pasted image 20240331015238.png]]
 
 # Desafios

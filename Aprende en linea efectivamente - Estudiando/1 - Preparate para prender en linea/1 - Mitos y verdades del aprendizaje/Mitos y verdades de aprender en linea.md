@@ -53,8 +53,9 @@ Vos decidis cuanto tiempo invertir en en cada actividad, se prioriza el aprendiz
 ### Estudiar es aburrido 
 ![[Pasted image 20240331034439.png]]
 Caer en en el aprendizaje pasivo es malo, no se va a retener mucha informacion y es poco eficiente, hay que estar haciendo algo, notas, asociaones, activandote en todo momento.
-Como tomar notas de manera efectiva: [[Aprende a tomar notas efectivas]]
+Como tomar notas de manera efectiva: 
+[[Aprende a tomar notas efectivas]]
 
 
-#ReglaDeOro 
+# #ReglaDeOro 
 ![[Pasted image 20240331034653.png]]

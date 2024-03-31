@@ -1,5 +1,5 @@
 
-#ReglaDeOro
+# #ReglaDeOro
 
 ![[Regla de oro.png]]
 

@@ -28,28 +28,38 @@ Mis herramientas van a ser platzi y diversas plataformas de CTF (Capture the fla
 
 # Pasos para crear un metodo de estudio
 
-### Paso N°1 - Sistema de organizacion
- *Para planificar tus tareas y proyectos para poder ordenarlos por prioridad y tener en claro el tiempo que le podes dedicar al estudio.*
-### Paso N°2 - Sistema de concentracion 
-*Para poder enfocar tus pensamientos en el estudio y no distraerte con otras cosas y manejar tu energia al momento de estudiar.*
+### **Paso N°1 - Sistema de organizacion**
 
-### Paso N°3 - Sistema de apuntes
+ *Para planificar tus tareas y proyectos para poder ordenarlos por prioridad y tener en claro el tiempo que le podes dedicar al estudio.*
+ - [ ] Crea tu sistema de organizacion
+ [[Crea sistema de organizacion]]
+
+### **Paso N°2 - Sistema de concentracion **
+
+*Para poder enfocar tus pensamientos en el estudio y no distraerte con otras cosas y manejar tu energia al momento de estudiar.*
+- [ ] Trabaja en tu sistema de concentracion
+
+### **Paso N°3 - Sistema de apuntes**
+
 *Para resumir todo con tus palbras y asi poder consultarno en el futuro en vez de tener que recurrir a la fuente original.*
 
-[[Aprende a tomar notas efectivas]] - Done
-#ACERO 
+- [ ] ***- Crea tu sistema de apuntes***
+- [[Aprende a tomar notas efectivas]] - Done
 
-### Paso N°4 - Sistema de comprencion
+### ** Paso N°4 - Sistema de comprencion**
+
 *Para aprender rapido las cosas y no necesitar estar repitiendolas muchas veces para comprender lo que estas viendo.*
 
+- [ ] Crea tu sistema de comprension
 [[Como comprender lo que aprendes]] - Done
-### Paso N°5 - Sistema de retencion
+
+### **Paso N°5 - Sistema de retencion**
 *Para no olvidar las cosas que estas aprendiendo.*
 
-### Desafio
-- Define tu objetivo de aprendizaje.
-- Comparte tu objetivo.
+### #Desafio
+- [x] Define tu objetivo de aprendizaje.
+- [ ] Comparte tu objetivo.
 
 
-#ReglaDeOro 
+# #ReglaDeOro
 ![[Pasted image 20240331041839.png]]
