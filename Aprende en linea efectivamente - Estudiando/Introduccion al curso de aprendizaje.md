@@ -8,7 +8,18 @@ Quiero tomar este curso para poder ganar habilidades que me permitan aprender co
 ¿Que pasa si aprendo "de golpe"?
 
 # Habilidades que espero aprender
-Poder tomar buenas notas
-Poder aprender de manera rapida y sin olvidar todo a los pocos dias
-Poder organizar mis horarios para estudiar
-Poder tener metodos de estudio para ser eficiente
+Poder tomar buenas notas: **Done**
+	[[Aprende a tomar notas efectivas]]
+Poder aprender de manera rapida y sin olvidar todo a los pocos dias: **Done**
+	[[Como comprender lo que aprendes]]
+Poder organizar mis horarios para estudiar:
+	
+Poder tener metodos de estudio para ser eficiente:
+	
+# Actividades que vamos a realizar
+- Desarrolar plan de estudio de estudio de 5 paso
+- Organizacion
+- Concentracion
+- Sistema de apuntes
+- Memorizacion
+- Otras habilidades para estudiar de forma mas eficiente
