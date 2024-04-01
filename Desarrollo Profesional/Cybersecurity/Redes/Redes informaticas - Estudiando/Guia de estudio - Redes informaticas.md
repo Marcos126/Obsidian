@@ -1,0 +1,33 @@
+- **👩👨Profesor/a**:
+	- Quetzally Meza
+- **🎯 Objetivo de Aprendizaje:** 
+    - 👉**Tipo**: #DesarrolloProfesional #Informatica #Fundamentos
+    - 👉**Objetivo:** Comprender mejor el funcionamiento de las redes informatias
+    - 👉**Meta de Tiempo:** 
+	    - 2 Horas de contenido
+	    - 8 Horas de practica
+		    - 10 Horas en total
+			    - 4 Horas por dia = 2.5 Dias
+    - 👉**Bloques:**
+	    - Conceptos basicos
+		- Software de redes
+		- Hardware de redes
+		- Conclusion del curso
+			- 26 clases en 4 bloques
+- 📕 **El Curso en un párrafo o idea:**
+	- Ganar bases y fundamentos en redes informaticas
+- **🤔 Preguntas Iniciales:**
+	- ¿Como funcionan las redes informaticas?
+	- ¿Que cosas hacen posible la comunicacion de estas?
+	- ¿Que protocolos de red existen?
+	- ¿Para que sirven las redes?
+	- ¿Que importancia tienen las redes?
+- ✅ **Ideas más importantes del libro:**
+	- Protocolos de red
+	- Modelo TCP/IP
+	- Estructura de las IP
+	- Modelo OSI
+	- Tipos de red
+	- Hardware de red
+	- Redes empresariales
+	- Arquitectura de red
