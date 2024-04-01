@@ -11,12 +11,8 @@
             "id": "35d97cd9085f5628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.01103591918945
+    "width": 512
   },
   "right": {
     "id": "ec9bf48909f0b26e",
@@ -112,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,19 +160,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false
     }
   },
   "active": "35d97cd9085f5628",
   "lastOpenFiles": [
+    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Uso de la inteligencia artificial.md",
+    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Pasted image 20240331020652.png",
+    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Mitos y verdades de aprender en linea.md",
     "Plan de estudio.md",
     "master.md",
     "Testeando cosas.md",
     "Changes",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Uso de la inteligencia artificial.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/4-. Paso 3 -  Notas efectivas/Aprende a tomar notas efectivas.md",
     "Aprende en linea efectivamente - Estudiando/Introduccion al curso de aprendizaje.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Crea sistema de organizacion.md",
@@ -196,7 +188,6 @@
     "2024-03-31.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331111513.png",
     "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/Que vas a hacer con tu aprendizaje.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Pasted image 20240331041839.png",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje",
     "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/Que vas a hacer.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje con cursos en linea/Raro.md",
