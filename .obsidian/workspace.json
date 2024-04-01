@@ -11,8 +11,12 @@
             "id": "35d97cd9085f5628",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plan de estudio general.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -163,13 +167,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "35d97cd9085f5628",
+  "active": "6e1a61cc1a9c64c3",
   "lastOpenFiles": [
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
+    "Plan de estudio general.md",
+    "Plan de estudio.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Uso de la inteligencia artificial.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Pasted image 20240331020652.png",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Mitos y verdades de aprender en linea.md",
-    "Plan de estudio.md",
     "master.md",
     "Testeando cosas.md",
     "Changes",
