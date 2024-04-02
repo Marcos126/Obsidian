@@ -1,12 +1,16 @@
-`# 1 Pre-instalacion
+# 1 Pre-instalacion
 
 
 ## 1.1 Descagar la imagen
 - Descargar la imagens desde la pagina oficial de arch
 ## 1.2 Verificar la firma de la imagen
-- De el proceso de verificacion tengo que investigar mas porque no lo entiendo
+- De el proceso de verificacion tengo que investigar mas porque no lo entiendo 
+- #corregir 
 ##  1.3 Preparar el medio de instalacion
  - Quemar la imagen descargada en un usb para poder bootear la computadora desde ahi
+	 - Rufus
+	 - dd
+	 - ventoy
 ## 1.4 Bootear en la computadora
 - Apagar la computadora, conectar el usb y seleccionarlo como dispositivo para bootear
 ## 1.5 Layout de consola y teclado
@@ -24,6 +28,9 @@
 - Conexion por ethernet
 ## 1.8 Actualizar la hora del sistema
 ## 1.9 Particion del disco
+Para hacer las particiones del disco, primero vamos a ver las distintas particiones que ya estan creadas con el comando <code>fdisk -l</code> , cuando identifiquemos el disco en el que queremos instalar arch vamos a usar 
+<code> fdisk /dev/disco_para_particionar</code>
+
 ###  Example layouts
 
  **UEFI** with *GPT*
