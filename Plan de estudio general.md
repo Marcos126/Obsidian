@@ -6,7 +6,7 @@ Este va a ser el orden en el que voy a estudiar las cosas para poder convertirme
 # #Cursos
 
 ### ***Curso para aprender en linea efectivamente***
-[[Guia de estudio-Aprender en linea efectivamente]]
+[[Guia de estudio - Aprender en linea efectivamente]]
 ### ***Curso de  introduccion a Redes Informáticas de Internet***
 [[Guia de estudio - Redes informaticas]]
 ### ***Curso avanzado de redes de internet***

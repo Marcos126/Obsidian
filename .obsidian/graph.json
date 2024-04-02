@@ -3,11 +3,33 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Desarrollo Profesional/Cybersecurity\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4521306
+      }
+    },
+    {
+      "query": "path:\"Desarrollo Profesional/Developer\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5767147
+      }
+    },
+    {
+      "query": "path:\"Desarrollo Personal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16006718
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38924605598451306,
+  "scale": 0.389246055984515,
   "close": true
 }

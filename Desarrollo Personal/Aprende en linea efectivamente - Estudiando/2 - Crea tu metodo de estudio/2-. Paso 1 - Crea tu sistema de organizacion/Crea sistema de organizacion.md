@@ -1,8 +1,8 @@
 # El pimer paso para crear un metodo de estudio
 
-### Sistema de organizacion
+## Sistema de organizacion
 ![[Pasted image 20240331110233.png]]
-Crear un sistema de organizacion es la clave para poder enfocarte en lo que quieras enfocarte y no perderte haciendo actividades que no te benefician en absoluto
+- Crear un sistema de organizacion es la clave para poder enfocarte en lo que quieras enfocarte y no perderte haciendo actividades que no te benefician en absoluto
 ### Lista de actividades:
 ![[Pasted image 20240331111022.png]]
 
@@ -10,13 +10,13 @@ Es una lista de las actividades que tenes que hacer en tu vida, corto, mediano o
 
 Estas actividades deben tener las siguiente cosas para poder estar bien organizadas
 - **Categoria:**
-	*Con que esta relacionada la actividad, puede ser por ejemplo "Desarrolo profesional" o "Desarrollo personal", "Finanzas" , etc*
+	*Con que esta relacionada la actividad, puede ser por ejemplo "Desarrollo profesional" o "Desarrollo personal", "Finanzas" , etc*
 - **Fecha de entrega:**
 	*Si es autoimpuesta, la fecha en la que te gustaria terminar, o sino alguna deadline para algun proyecto/examen  o algo asi.*
 - **Micro-tareas:**
 	*Si la tarea es muy compleja, dividirla en pasos mas chiquitos va a ayudarte a completar la tarea final.*
 - **Urgencia:**
-	*La urgencia con a que hay que completar la tarea, puede ser baja, mediana o alta urgencia*
+	*La urgencia con la que hay que completar la tarea, puede ser baja, mediana o alta urgencia*
 
 
 
@@ -25,7 +25,7 @@ Estas actividades deben tener las siguiente cosas para poder estar bien organiza
 
 - Estas son las cosas que te gustaria completar a lo largo del dia 
 
-- Cualquier actividad que tienes va a entrar en uno de tres grupos distintos dependiendo su impacto en tu vida, puede ser alto medio o bajo impacto.
+- Cualquier actividad que tienes va a entrar en uno de tres grupos distintos dependiendo su impacto en tu vida, puede ser alto medio o bajo impacto. #corregir
 
 - No debes agregar demasiadas actividades.
 
@@ -34,7 +34,7 @@ Estas actividades deben tener las siguiente cosas para poder estar bien organiza
 - **Si tenes una actividad que requiere mucho esfuerzo y es de alto impacto, la tenes que hacer.**
 - **Si requiere poco esfuerzo y es de alto impacto, ya tendria que estar hecha(?).**
 - **Si requiere poco esfuerzo y es de poco impacto te lo pensas.**
-- **Si es de mucho esfuerzo y poco impacto, tal vez podrias dejarla si incompleta.**
+- **Si es de mucho esfuerzo y poco impacto, tal vez podrias dejarla incompleta.**
 
 El sector de abajo se pueden tanto no hacer como reprogramar para hacerlo en otro momento.
 
@@ -45,13 +45,13 @@ Por ejemplo, El trabajo, entrenamientos, estudio
 
 
 Hay que entenderlos como 3 sistemas por separado que funcionan en conjunto, no como un mismo sistema.
-### Pseudo-trabajo
+# Pseudo-trabajo
 
 - Este, es nuestro peor enemigo, cuando trabajamos desorganizados y estamos ocupados todo el dia pero no conseguimos completar nuestras actividades de manera ***EFICIENTE***
 
 - Debemos evitarlo a toda costa y para ello vamos a ayudarnos de la Organizacion!
 
-### #Resumen
+# #Resumen
 **Lista de actividades:**
 *Es la lista mas grande de las metas que queres alcanzar.*
 **Agenda diaria:**

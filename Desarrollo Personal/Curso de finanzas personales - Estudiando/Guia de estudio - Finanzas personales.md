@@ -1,0 +1,10 @@
+- **🎯 Objetivo de Aprendizaje:**
+    - 👉**Tipo**:
+    - 👉**Objetivo:** 
+    - 👉**Meta de Tiempo:** 
+    - 👉**Bloques:**
+- 📕 **El Curso en un párrafo o idea:**
+- **🤔 Preguntas Iniciales:**
+- ✅ **Ideas más importantes del libro:**
+
+

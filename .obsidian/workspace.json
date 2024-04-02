@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35d97cd9085f5628",
+            "id": "11c6a550dec9946e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan de estudio general.md",
+                "file": "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11acd71778c0e941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,7 @@
       {
         "id": "8d3352decbf80ca3",
         "type": "tabs",
-        "dimension": 55.62632696390658,
+        "dimension": 81.48148148148148,
         "children": [
           {
             "id": "283f4712a6538deb",
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ACERO",
+                "query": "tag:#Resumen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +81,12 @@
         ]
       },
       {
-        "id": "af0e3cb2b54ed204",
+        "id": "82a8346da5bae351",
         "type": "tabs",
-        "dimension": 44.37367303609342,
+        "dimension": 18.51851851851852,
         "children": [
           {
-            "id": "6e1a61cc1a9c64c3",
+            "id": "aba50de592729722",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -85,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512
+    "width": 310,
+    "collapsed": true
   },
   "right": {
     "id": "ec9bf48909f0b26e",
@@ -112,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md"
+              }
             }
           },
           {
@@ -139,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,14 +165,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d1d174b8c2d5f6ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,16 +188,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e1a61cc1a9c64c3",
+  "active": "11c6a550dec9946e",
   "lastOpenFiles": [
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
+    "Desarrollo Profesional/Developer/ArchLinux/Arch Linux Installation.md",
+    "Desarrollo Profesional/Developer/ArchLinux/index.md",
+    "Desarrollo Profesional/Developer/ArchLinux/index.html",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/5-. Paso 4 - Comprende mejor lo que aprendes/Como comprender lo que aprendes.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Mitos y verdades de aprender en linea.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Crea sistema de organizacion.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/4-. Paso 3 -  Notas efectivas/Aprende a tomar notas efectivas.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/3-. Paso 2 - Desarrolla un buen habito de estudio/Habitos de estudio.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodos de estudio Online.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331034336.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331034439.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240401104033.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240401104146.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331034653.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331033936.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331033554.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331032931.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331032822.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Pasted image 20240331032640.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Estudiando/Guia de estudio - Aprender en linea efectivamente.md",
+    "Templates/Guia de estudio.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Desarrollo Personal/Curso de finanzas personales - Estudiando/Guia de estudio - Finanzas personales.md",
+    "Desarrollo Profesional/Developer/ArchLinux",
     "Plan de estudio general.md",
+    "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+    "Desarrollo Profesional/Developer/Git y github - Estudiando/Guia de estudio - Git y github.md",
+    "Desarrollo Personal/Curso de finanzas personales - Estudiando",
+    "Desarrollo Personal/Untitled.md",
+    "Desarrollo Profesional/Developer/Git y github - Estudiando/Git Work flow.canvas",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
     "Plan de estudio.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Uso de la inteligencia artificial.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/6-. Optimiza tu aprendizaje con inteligencia artificial/Pasted image 20240331020652.png",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio OnLine.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje/Mitos y verdades de aprender en linea.md",
     "master.md",
@@ -182,39 +236,14 @@
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/4-. Paso 3 -  Notas efectivas/Aprende a tomar notas efectivas.md",
     "Aprende en linea efectivamente - Estudiando/Introduccion al curso de aprendizaje.md",
     "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Crea sistema de organizacion.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331110233.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331115055.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331114534.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/5-. Paso 4 - Comprende mejor lo que aprendes/Como comprender lo que aprendes.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331112838.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331112450.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331110842.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331111124.png",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331111022.png",
-    "2024-03-31.md",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Pasted image 20240331111513.png",
-    "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/Que vas a hacer con tu aprendizaje.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje",
-    "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/Que vas a hacer.md",
-    "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje con cursos en linea/Raro.md",
     "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea/1 - Mitos y verdades del aprendizaje con cursos en linea",
-    "Aprende en linea efectivamente - Estudiando/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodo de estudio Online.md",
-    "[[Aprende.md",
-    "Excalidraw/Drawing 2024-03-31 03.51.05.excalidraw.md",
     "Excalidraw",
     "Testeando cosas.md~",
     "4913",
     "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje",
-    "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender",
-    "Aprende en linea efectivamente - Estudiando/1 - Preparate para prender en linea",
-    "master",
-    "Introduccion a redes/a.md",
     "Git y github/Git Work flow.canvas",
     "Git y github - Estudiando/Git Work flow.canvas",
-    "Untitled.canvas",
-    "Pasted image 20240330231348.png.md",
-    "Aprende en linea efectivamente - Estudiando/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/abcd.md",
-    "Aprende en linea efectivamente/2 - Crea tu metodo de estudio/Untitled.md",
     "Untitled 1.canvas"
   ]
 }

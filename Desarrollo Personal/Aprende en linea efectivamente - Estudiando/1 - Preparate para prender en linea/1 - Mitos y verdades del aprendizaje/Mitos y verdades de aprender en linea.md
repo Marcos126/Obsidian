@@ -1,20 +1,16 @@
 # Aprender es una habilidad
 ![[Pasted image 20240331032245.png]]
-En esta clase vamos a ver una lista de *mitos* comunes que se intentan aplicar al estudiar y que son *contraproducentes*
+- En esta clase vamos a ver una lista de *mitos* comunes que se intentan aplicar al estudiar y que son *contraproducentes*
+
 # ¿Que te dice la palabra estudiar?
-- El estudio se refiere a dedicar tiempo a *aprender cosas nuevas*, ya se por temas academicos o personales.
+- El estudio se refiere a dedicar tiempo a *aprender cosas nuevas*, ya sea por temas academicos o personales.
+- Hay que evitar relacionar el estudio con cosas negativas.
 
-# Top 3  - Errores al estudiar 
-
-![[Pasted image 20240331032640.png]]
-- Vivimos en la era de las *distracciones*
-- Fuimos desarrollando *ventanas de atencion mas cortas* lo que nos dificulta la retencion
-- Hay mucha informacion para aprender en *muy poco timpo*
 # Mitos al estudiar
 
 ### Estudiar sin interes es util
 ![[Pasted image 20240331032822.png]]
-- *Estudiar sin interes*, es ineficiente, no retenemos la informacion que vamos a aprender, haciendo que tengamos o que estudiar de nuevo *perdiendo tiempo* o que simplemente no recordemos nada.
+- *Estudiar sin interes*, es ineficiente, no retenemos la informacion que vamos a aprender, haciendo que tengamos, o que estudiar de nuevo, *perdiendo tiempo* o que simplemente no recordemos nada.
 
 ### La repeticion masiva es la mejor forma de aprender
 ![[Pasted image 20240331032931.png]]
@@ -22,8 +18,8 @@ En esta clase vamos a ver una lista de *mitos* comunes que se intentan aplicar a
 - Se busca solucionarlo con la *repeticion espaciada*, sin hacer que la memoria se sature de informacion para poder retener lo que aprendemos
 ### El sentido comun para aprender es bueno
 
-Repetir         < *Explicar* 
-Releer           < *Examinar*
+Repetir        < *Explicar* 
+Releer         < *Examinar*
 Transcribir < *Resumir*
 Memorizar < *Repasar* 
 
@@ -47,7 +43,7 @@ Aunque pueda parecer que *repetir*, *releer*, *memorizar* y *transcribir* sean b
 - Se puede *aplacar con preguntas* para confirmar que entendiste lo que acabas de aprender.
 ### Necesito motivacion para aprender 
 ![[Pasted image 20240331034212.png]]
-- La *motivacion* para llegar en algun momento del camino, tiene qu e estar dividido todo en micropasos para que el cerebro consiga tener esa *motivacion* alcanzando *pequeñas metas* y que asi sea muchisimo mas facil aprender.
+- La *motivacion* para llegar en algun momento del camino, tiene que estar dividido todo en micropasos para que el cerebro consiga tener esa *motivacion* alcanzando *pequeñas metas* y que asi sea muchisimo mas facil aprender.
 ### No tengo tiempo para aprender
 ![[Pasted image 20240331034336.png]]
 - ***Vos decidis cuanto tiempo invertir en en cada actividad, se prioriza el aprendizaje por sobre todo.***
@@ -58,6 +54,12 @@ Aunque pueda parecer que *repetir*, *releer*, *memorizar* y *transcribir* sean b
 	- [[Aprende a tomar notas efectivas]]
 
 
+# Top 3  - Errores al estudiar 
+
+![[Pasted image 20240331032640.png]]
+- Vivimos en la era de las *distracciones*
+- Fuimos desarrollando *ventanas de atencion mas cortas* lo que nos dificulta la retencion
+- Hay mucha informacion para aprender en *muy poco timpo*
 # #ReglaDeOro 
 
 ![[Pasted image 20240331034653.png]]

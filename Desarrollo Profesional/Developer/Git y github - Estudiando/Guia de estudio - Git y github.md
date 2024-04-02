@@ -1,4 +1,3 @@
-- **👩👨Profesor/a**:
 - **🎯 Objetivo de Aprendizaje:**
     - 👉**Tipo**:
     - 👉**Objetivo:** 
@@ -6,4 +5,4 @@
     - 👉**Bloques:**
 - 📕 **El Curso en un párrafo o idea:**
 - **🤔 Preguntas Iniciales:**
-- ✅ **Ideas más importantes del libro:**
+- ✅ **Ideas más importantes del libro:**- **👩👨Profesor/a**:
