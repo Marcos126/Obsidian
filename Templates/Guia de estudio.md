@@ -1,7 +1,11 @@
+- **👩👨Profesor/a**:
+- **💻Plataforma**:
 - **🎯 Objetivo de Aprendizaje:**
     - 👉**Tipo**:
     - 👉**Objetivo:** 
-    - 👉**Meta de Tiempo:** 
+    - 👉**Meta de Tiempo:**
+	    - **Fecha de inicio:**
+	    - **Fecha de finalizacion estimada:**
     - 👉**Bloques:**
 - 📕 **El Curso en un párrafo o idea:**
 - **🤔 Preguntas Iniciales:**

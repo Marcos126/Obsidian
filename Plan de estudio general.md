@@ -7,8 +7,20 @@ Este va a ser el orden en el que voy a estudiar las cosas para poder convertirme
 
 ### ***Curso para aprender en linea efectivamente***
 [[Guia de estudio - Aprender en linea efectivamente]]
+Fecha de inicio:
+- *31/3/24*
+Fecha de finalizacion estimada:
+- 2/4/24
+Fecha de finalizacion:
+ - **2/4/24🥳**
 ### ***Curso de  introduccion a Redes Informáticas de Internet***
 [[Guia de estudio - Redes informaticas]]
+Fecha de inicio:
+*	*2/4/24*
+Fecha de finalizacion estimada:
+- 5/4/24
+Fecha de finalizacion:
+
 ### ***Curso avanzado de redes de internet***
 - **Categoria:**
 	- Fundamentos

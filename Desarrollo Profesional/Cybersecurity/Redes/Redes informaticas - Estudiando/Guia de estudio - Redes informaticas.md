@@ -1,5 +1,7 @@
 - **👩👨Profesor/a**:
 	- Quetzally Meza
+- **💻Plataforma**:
+	- [*platzi*](https://platzi.com/cursos/redes/)
 - **🎯 Objetivo de Aprendizaje:** 
     - 👉**Tipo**: #DesarrolloProfesional #Informatica #Fundamentos
     - 👉**Objetivo:** Comprender mejor el funcionamiento de las redes informatias
@@ -9,11 +11,36 @@
 		    - 10 Horas en total
 			    - 4 Horas por dia = 2.5 Dias
     - 👉**Bloques:**
-	    - Conceptos basicos
-		- Software de redes
-		- Hardware de redes
-		- Conclusion del curso
-			- 26 clases en 4 bloques
+	    - - 26 clases en 4 bloques
+		    - Conceptos basicos
+			    - Temas que aprenderas sorbre redes
+			    - Antecedentes de las redes computacionales
+			    - ¿Que es una red de computadoras?
+			    - Importancia de las redes computacionales
+			    - ¿Que son los Bits y Bytes?
+			    - Clasificacion de las redes de computadoras o computacionales
+			- Software de redes
+				- Protocolos de red
+				- Model TCP/IP
+				- Identificando las redes:Asignacion direcciones IP
+				- Que es el modelo OSI
+				- Capa fisica
+				- El cable de par trenzado
+				- Capa de enlace de datos
+				- ¿Que es la direccion MAC?
+				- ¿Que es la capa de red?
+				- Capa de transporte
+				- Capa de sesion
+				- Capa de presentacion
+				- Capa de aplicacion
+				- Diferencias entre modelo OSI y TCP/IP
+			- Hardware de redes
+				- 8 Tipos de dispositivos de red y como funcionan
+				- Simbolos y como dibujar arquitecturas de redes
+				- Que son las redes empresariales: ejemplos
+			- Conclusion del curso
+				- Cierre del curso y siguientes pasos
+			
 - 📕 **El Curso en un párrafo o idea:**
 	- Ganar bases y fundamentos en redes informaticas
 - **🤔 Preguntas Iniciales:**

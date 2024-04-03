@@ -57,6 +57,8 @@ Si creaste una particion swap, la formateamos de la siguiente manera
 
 <code>mkswap /dev/swap_partition</code>
 
+`mkfs.fat -F 32 /dev/EFI_partition`
+
 ## 1.11 Montar las particiones
 Con las particiones formateadas, montamos los archivos de la imagen en el sistema.
 
@@ -118,21 +120,48 @@ Crear el archivo de hostname:
 <p>/etc/hostname<br>---------------<br>
 yourhostname</p>
 
+
+/etc/hosts
+
+| 127.0.0.1 | localhost             |
+| --------- | --------------------- |
+| ::1       | localhost             |
+| 127.0.1.1 | user.localdomain user |
+
 ## 3.6 Initramsfs
 
 Usualmente no requrido, pero por las dudas.
 <code>mkinitcpio</code>
 
-## 3.7 Root password
+## 3.7 Users
 Configura el password del root
 <code>passwd</code>
+
+Crear usuarios
+useradd -m NOMBRE
+passwd NOMBRE
+
+pacman -Sy sudo
+
+usermod -aG wheel,group,group,group NOMBRE
+ahora entramos a visudo y descomentamos la linea que permite que los usuarios del grupo wheel usen cualquier comando cuando usan sudo
+
 ## 3.8 Boot loader
 Selecciona e instala un boot loader capaz de soportar linux
-
-<code>pacman -S install grub</code>
+- [[Grub]]
+## 3.9 Instalaciones importantes
+- NetworkManager
 ## 4 Reboot
 Ahora podes salir del chroot environment escribiendo <code>exit</code> o presionando <code>CRTL+D</code>
 Opcionalmente podes desmontar las particiones manualmente con umount -R /mnt lo que te permite saber si habia particiones ocupadas y podes encontrar la causa con <code>fuser</code>
 # 5 Post-installation
 
-`
+## 5.1 Entorno grafico
+Para lograr tener un entorno grafico vamos a tener que instalar y configurar las siguientes cosas
+- [[xorg]]
+- xinit
+- xorg-server
+- i3-wm
+- i3-status
+- [[light-dm]]
+- lightdm-gtk-greeter
