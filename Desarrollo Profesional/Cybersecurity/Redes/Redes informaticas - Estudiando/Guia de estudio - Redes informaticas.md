@@ -13,26 +13,26 @@
     - 👉**Bloques:**
 	    - - 26 clases en 4 bloques
 		    - Conceptos basicos
-			    - Temas que aprenderas sorbre redes
-			    - Antecedentes de las redes computacionales
-			    - ¿Que es una red de computadoras?
-			    - Importancia de las redes computacionales
-			    - ¿Que son los Bits y Bytes?
-			    - Clasificacion de las redes de computadoras o computacionales
+			    - [[Temas que aprenderas sobre redes]]
+			    - [[Antecedentes de las redes computacionales]]
+			    - [[Que es una red de computadoras]]
+			    - [[Importancia de las redes computacionales]]
+			    - [[Que son bits y bytes]]
+			    - [[Clasificacion de la redes]]
 			- Software de redes
-				- Protocolos de red
-				- Model TCP/IP
-				- Identificando las redes:Asignacion direcciones IP
-				- Que es el modelo OSI
-				- Capa fisica
-				- El cable de par trenzado
-				- Capa de enlace de datos
-				- ¿Que es la direccion MAC?
-				- ¿Que es la capa de red?
-				- Capa de transporte
-				- Capa de sesion
-				- Capa de presentacion
-				- Capa de aplicacion
+				- [[Protocolos de red]]
+				- [[Modelo TCP_IP]]
+				- [[Asignacion de direcciones IP]]
+				- [[EL modelo OSI]]
+				- [[Capa fisica]]
+				- [[El cable de par trenzado]]
+				- [[Capa de enlace de datos]]
+				- [[Direcciones MAC]]
+				- [[Capa de red]]
+				- [[Capa de transporte]]
+				- [[Capa de sesion]]
+				- [[Capa de presentacion]]
+				- [[Capa de aplicacion]]
 				- Diferencias entre modelo OSI y TCP/IP
 			- Hardware de redes
 				- 8 Tipos de dispositivos de red y como funcionan

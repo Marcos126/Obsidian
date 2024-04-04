@@ -9,6 +9,7 @@ primero nos traemos el archivo `.xinitrc`
 
 luego entramos a el archivo <code>.bash_profile</code> y agregamos el siguiente codigo al final
 
-<code>if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then<br> startx <br>fi </code>
+<p><code>if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then<br> startx <br>fi </code></p>
+
 
 Este codigo va a iniciar el comando startx cuando detecte que se activo la tty1

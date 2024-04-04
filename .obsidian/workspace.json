@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ba844ca14ddc8c37",
+        "id": "7105016ef06e89e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3c753afa74fcc794",
+            "id": "a6e299fb6f5bda06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP/Modelo TCP_IP.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC/Direcciones MAC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "858b4ee44875bdbc",
+            "id": "bc63a81ef0b2e037",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Clases de redes.md",
-                "mode": "source",
-                "source": false
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/2-Simbolos_dibujar_arquitecturas_redes/Simbolos y como dibujar redes.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "17a4cd47735a2db1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-04 01.28.51.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🧠GuiaDeRepaso",
+                "query": "IP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.0110321044922
+    "width": 535.0110359191895
   },
   "right": {
     "id": "ec9bf48909f0b26e",
@@ -109,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Clases de redes.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC/Direcciones MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Clases de redes.md"
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC/Direcciones MAC.md"
               }
             }
           },
@@ -139,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Clases de redes.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC/Direcciones MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
+    "width": 491,
     "collapsed": true
   },
   "left-ribbon": {
@@ -174,57 +181,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "858b4ee44875bdbc",
+  "active": "a6e299fb6f5bda06",
   "lastOpenFiles": [
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/5-Que_es_modelo_OSI/EL modelo OSI.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP/Pasted image 20240403001015.png",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP/Modelo TCP_IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Clases de redes.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/3-Identificando_las_redes_IP_y_su_estructura/Identificando las redes IP y su estructura.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/11-Capa_transporte/Capa de transporte.md",
+    "Excalidraw/Drawing 2024-04-04 01.28.51.excalidraw.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/8-Capa_enlace_datos/Capa de enlace de datos.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/10-Que_es_capa_red/Capa de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/6-Capa_fisica/Capa fisica.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/2-Simbolos_dibujar_arquitecturas_redes/Simbolos y como dibujar redes.excalidraw.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/2-Simbolos_dibujar_arquitecturas_redes/Simbolos para dibujar arquitecturas de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/2-Simbolos_dibujar_arquitecturas_redes/Pasted image 20240403234255.png",
+    "Pasted Image 20240404013419_763.png",
+    "Excalidraw/Arquitectura de redes",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001254_323.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001309_306.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001309_312.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001309_329.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001325_313.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001325_319.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404001340_313.png",
+    "Excalidraw",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/1-8_Tipos_dispositivos_red_funcionamiento/Dispositivos de red y como funcioan.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/15-Diferencias_modelo_OSI_TCP_IP/Diferencias modelo OSI y TCP_IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/3-Identificando_las_redes_IP_y_su_estructura/Direcciones IP y su estructura.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/1-Protocolos_red/Protocolos de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Clasificacion de la redes.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/5-Que_son_Bits_Bytes/Que son bits y bytes.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Importancia de las redes computacionales.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/3-Que_es_red_computadoras/Que es una red de computadoras.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/2-Antecedentes_redes_computacionales/Antecedentes de las redes computacionales.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/1-Temas_que_aprenderas_sobre_redes/Temas que aprenderas sobre redes.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/7-Cable_par_trenzado/El cable de par trenzado.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/14-Capa_aplicacion/Capa de aplicacion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Asignacion de direcciones IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/12-Capa_sesion/Capa de sesion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC/Direcciones MAC.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/3-Identificando_las_redes_IP_y_su_estructura",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/3-",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/New folder",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/3-Identificando_redes_Asignacion_direcciones_IP/Identificando las redes IP y su estructura.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP/Identificando las redes IP y su estructura.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Identificando_redes_Asignacion_direcciones_IP",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/4-Que_es_modelo_OSI/EL modelo OSI.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/5-Que_es_modelo_OSI/EL modelo OSI.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/5-Que_es_modelo_OSI",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/6-Capa_fisica",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/7-Cable_par_trenzado",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/8-Capa_enlace_datos",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/9-Que_es_direccion_MAC",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/10-Que_es_capa_red",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP/Pasted image 20240403001015.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/1-Protocolos_red/Protocolos de red.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Pasted image 20240402235023.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/1-Protocolos_red/Pasted image 20240403000324.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Pasted image 20240402234753.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Pasted image 20240402234449.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Clasificacion de la redes.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/6-Clasificacion_redes_computadoras/Pasted image 20240402234841.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Pasted image 20240402232833.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/5-Que_son_Bits_Bytes/Que son bits y bytes.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Importancia de las redes computacionales.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Pasted image 20240402232750.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Pasted image 20240402232657.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Pasted image 20240402232531.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/3-Que_es_red_computadoras/Que_es_una_red_de_computadoras.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/2-Antecedentes_redes_computacionales/Antecedentes de las redes.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/1-Temas_que_aprenderas_sobre_redes/Temas que vas a aprender.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-.Conceptos_basicos/2-.Antecedentes_redes_computacionales/Untitled.md",
-    "Plan de estudio general.md",
-    "Templates/Guia de estudio.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/Guia de estudio - Aprender en linea efectivamente.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/4-Importancia_redes_computacionales/Devolucion.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/8-. Ejercita tu memoria para aprender mejor/Ejercita tu memoria.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/7-. Paso 5 - Como recordar mejor a largo plazo/Crea tu sistema de repaso.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/3 - Lecciones para nunca parar de aprender/1-. Que vas a hacer con tu aprendizaje/Que vas a hacer con tu aprendizaje.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/5-. Paso 4 - Comprende mejor lo que aprendes/Crea tu sistema de comprension.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/1-. Crea tu metodo de estudio para aprender en linea/Metodos de estudio Online.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/2-. Paso 1 - Crea tu sistema de organizacion/Crea sistema de organizacion.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

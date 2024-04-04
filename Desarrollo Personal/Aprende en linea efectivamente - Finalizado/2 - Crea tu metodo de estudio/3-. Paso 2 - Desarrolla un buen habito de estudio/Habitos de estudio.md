@@ -53,7 +53,8 @@ En el modo difuso te relajas para conectar ideas con tu conocimiento previo.
 - La tecnica pomodoro lo que propone es hacer:
 	- 25-30 minutos de buena concentracion y 5 minutos de descanso
 	- Cada 2 o 4 ciclos de pomodoro un descanso largo de 15 minutos.
-![[Pasted image 20240401001653.png]]
+
+![[Pasted image 20240403204313.png]]
 - Con este grafico entendemos que si tomamos pausas el cerebro retiene mucho mejor la informacion comparado con no tomar ningun descanso.
 
 # #ReglaDeOro 
