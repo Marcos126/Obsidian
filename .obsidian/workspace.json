@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md"
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,32 +165,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "283f4712a6538deb",
+  "active": "cc8bf5c2036ce381",
   "lastOpenFiles": [
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de presentacion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de enlace de datos.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/EL modelo OSI.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de sesion.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de aplicacion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de presentacion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa fisica.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/4-Conclusion_curso/Conclucion y cierre.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos y como dibujar redes.excalidraw.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos para dibujar arquitecturas de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Dispositivos de red y como funcionan.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/Antecedentes de las redes computacionales.md",
+    "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+    "Desarrollo Personal/Curso de finanzas personales - Estudiando/Guia de estudio - Finanzas personales.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/Guia de estudio - Aprender en linea efectivamente.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/Direcciones IP.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Direcciones IP y su estructura.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/EL modelo OSI.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Protocolos de red.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Modelo TCP_IP.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/El cable de par trenzado.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Diferencias modelo OSI y TCP_IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa fisica.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de sesion.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Asignacion de direcciones IP.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/FTP.md",
     "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/Direcciones MAC.md",
-    "Excalidraw/Drawing 2024-04-04 01.28.51.excalidraw.md",
-    "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea sistema de organizacion.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/1 - Preparate para prender en linea/Mitos y verdades de aprender en linea.md",
-    "Desarrollo Personal/Curso de finanzas personales - Estudiando/Guia de estudio - Finanzas personales.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/4-Conclusion_curso/Conclucion y cierre.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/Clasificacion de la redes.md",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104146.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104033.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034653.png",
@@ -202,9 +204,7 @@
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331032931.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331032822.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/1 - Preparate para prender en linea/0-Imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/3 - Lecciones para nunca parar de aprender/Que vas a hacer con tu aprendizaje.md",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Ejercita tu memoria.md",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/7-imagenes",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/6-imagenes",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/5-imagenes",

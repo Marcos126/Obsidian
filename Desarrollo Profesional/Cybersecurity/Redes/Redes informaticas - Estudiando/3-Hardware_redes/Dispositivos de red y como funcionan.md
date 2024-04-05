@@ -24,28 +24,28 @@ El switch se emplea para conectar diversos dispositivos cableados para formar un
 
 ## Repetidor
 
-Dispositivo analogico que amplifica la señal de entrada.
+Dispositivo analogico que *amplifica* la señal de entrada.
 
 ## Firewall
 
-Firewall de capa 2, actua como una pared entre el internet y la red interna, decidiendo si los paquetes que estan intentando ingresar son seguros o no para saber si dejarlos pasar o no, el firewall puede configurarse, ya sea por comportamiento, por politicas segun el dispositivo o ciertas keywords, posee tambien funcionalidades de filtro de aplicaciones, paginas, IPS, etc.
+Firewall de capa 2, actua como una pared entre el internet y la red interna, decidiendo si los paquetes que estan intentando ingresar son *seguros* o no para saber si dejarlos pasar o no, el firewall puede configurarse, ya sea por comportamiento, por politicas segun el dispositivo o ciertas keywords, posee tambien funcionalidades de filtro de aplicaciones, paginas, IPS, etc.
 
 
 ## Balanceadores de trafico
 
-Para proteger servidores para asegurar la disponibilidad con esquemas activo-activo o activo-pasivo
+Para proteger servidores para asegurar la *disponibilidad* con esquemas activo-activo o activo-pasivo
 - activo-activo:
-	- Distribuye la carga entre distintos servidores para asegurarse de que ninguno se sobrecargue
+	- Distribuye la carga entre *distintos servidores* para asegurarse de que ninguno se sobrecargue
 - activo-pasivo:
-	- Tiene un cluster de emergencia para cuando se sobrecargue el servidor principal.
+	- Tiene un *cluster de emergencia* para cuando se sobrecargue el servidor principal.
 
 ## Gateway
 
-Tecnologia que permite interconectar redes con protocolos y arquitecturas diferentes, se encarga de traducir la informacion del protocolo utilizado al protocolo de red usado en la red de destino.
+Tecnologia que permite *interconectar* redes con protocolos y arquitecturas diferentes, se encarga de *traducir la informacion* del protocolo utilizado al protocolo de red usado en la red de destino.
 
 ## Puente
 
-Interconecta segmentos de red haciendo la transferencia de datos en base a la direccion fisica de destino de cada paquete.
+*Interconecta segmentos de red* haciendo la transferencia de datos en base a la direccion fisica de destino de cada paquete.
 
 
 # #EnseñanzaFinal 

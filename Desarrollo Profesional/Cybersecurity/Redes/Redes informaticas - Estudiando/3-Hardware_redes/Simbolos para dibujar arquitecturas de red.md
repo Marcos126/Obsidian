@@ -16,3 +16,4 @@
 
 ![[Pasted image 20240403234255.png]]
 
+![[Simbolos y como dibujar redes.excalidraw]]

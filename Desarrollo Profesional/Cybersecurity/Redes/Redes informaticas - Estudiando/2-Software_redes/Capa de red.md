@@ -2,7 +2,9 @@
 
 ![[Pasted image 20240403163617.png]]
 
-En las capas anteriores, se convertia la eletricidad en bits, los bits en tramas, y en esta capa se convierten las tramas en paquetes que es como tiene que viajar la informacion a travez de la red.
+Tercera capa del [[EL modelo OSI]], recibe peticiones de la [[Capa de sesion]] y utiliza los servicios de la [[Capa de transporte]]. En esta capa las tramas de la capa de sesion son transformadas en paquetes para un mejor control de la informacion.
+
+
 
 Esta capa tambien se encarga de resolver problemas de congestion, compatibilidad de protocolos entre puntos diferentes y direccionar paquetes
 # Definicion de rutas
