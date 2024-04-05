@@ -1,6 +1,10 @@
 #  Capa de transporte
 ![[Pasted image 20240403170635.png]]
 
+Cuarta capa del [[EL modelo OSI]], recibe peticiones de la [[Capa de sesion]], utiliza los servicios de la [[Capa de red]]. Encargada de regular el flujo de informacion desde el origen hasta el destino.
+
+Ven el mensaje completo para de muchos paquetes, comprobando errores en la transmision, confirmando que sea exitosa y haciendo peticiones de retransmision en caso de que n                                                                                                                                     
+
 A partir de esta capa, ya tenemos *conexiones verdaderas*, de host a host.
 Esta capa busca minimizar la tasa de errores al punto de que sea irrelevante.
 

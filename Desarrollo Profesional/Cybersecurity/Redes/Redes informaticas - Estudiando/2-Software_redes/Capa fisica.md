@@ -1,12 +1,10 @@
 # Capa fisica
 ![[Pasted image 20240403122304.png]]
-Primera capa del modelo OSI:
-- Se refiera a aspectos fisicos de hardware, nos referimos a transmitir señales electricas a travez de un canal, algunos aspectos importantes son:
-	- Señalizacion
-	- Medios de comunicacion
-	- Transmision binaria 
-
-La siguiente capa es [[Capa de enlace de datos]]
+Primera capa del modelo OSI, recibe peticiones de recibe peticiones de la [[Capa de enlace de datos]], es la responsable de transmitir señales a traves de medios fisicos.
+Algunos aspectos importantes son:
+- Señalizacion
+- Medios de comunicacion
+- Transmision binaria 
 
 
 ## Responsabilidad de la capa
@@ -29,12 +27,12 @@ La siguiente capa es [[Capa de enlace de datos]]
 	- **802.11**
 		- Es una familia de normas inalambricas creada por el Insituto de IEEE(Ingenieron Electricos y Electronicos
 		- 802.11n es la forma mas apropiada de llamar al Wi-Fi (Wireless Fidelity)
-# Medios
+# Medios de comunicacion
 - Existen medio como:
 	- **Pulsos de luz**:
 		- Mediante fibra optica, capas de transmitir luz de un punto a otro, haciendo que esa luz se pueda transformar en informacion.
 	- **Pulsos electromagneticos**:
-		- Mediante [[El cable de par trenzado]] que transmite electricidad de un punto a otro
+		- Mediante [[El cable de par trenzado]] que transmite pulsos de electricidad de un punto a otro
 	- **Las ondas de radio**:
 		- Mediante antenas que emitan ondas de radio a frecuencias especificas
 

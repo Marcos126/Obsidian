@@ -1,4 +1,8 @@
 # Capa de presentacion
+
+![[Pasted image 20240405150423.png]]
+
+Recibe peticiones de la [[Capa de aplicacion]] y utiliza servicios de la [[Capa de sesion]]
 En esta capa ya tenemos un ser humano manipulando estas cosas, una vez terminada la transferencia de datos, esta capa es responsable de formatear los datos para darle esa informacion a la siguiente capa.
 
 # Funciones
