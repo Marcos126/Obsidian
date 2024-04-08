@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"8bdf00607776b849","type":"file","file":"Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md","x":-700,"y":-1120,"width":850,"height":860},
+		{"id":"a05be3c1bbe3d740","type":"text","text":"Direcciones \nPrivadas\nRepetidas","x":240,"y":-597,"width":180,"height":120},
+		{"id":"8cfb1a6961b35951","type":"text","text":"Direcciones \nprivadas \nrepetidas","x":880,"y":-594,"width":180,"height":115},
+		{"id":"17ea004d24068944","type":"text","text":"NAT(Servicio de traduccion de direcciones), sirve como intermediario entre las direcciones privadas de tu red y la direccion publica de tu modem, para que no se mezclen las peticiones de las maquinas.","x":460,"y":-900,"width":360,"height":303},
+		{"id":"0f6c71da0c788cb4","x":-220,"y":-20,"width":160,"height":60,"type":"text","text":"Celular"},
+		{"id":"f4159f1ecef57b7c","x":-220,"y":420,"width":160,"height":60,"type":"text","text":"Laptop"},
+		{"id":"2920821282589542","x":-375,"y":200,"width":200,"height":58,"type":"text","text":"Computadora"},
+		{"id":"38e93b3524389cdd","x":240,"y":134,"width":360,"height":190,"type":"text","text":"NAT\n(Network Address Translator)\n\nRouter\n12.234.56.78"},
+		{"id":"2722412ec1f42f7f","x":960,"y":200,"width":250,"height":58,"type":"text","text":"Internet"},
+		{"id":"4fe7c91166801723","x":640,"y":390,"width":420,"height":270,"type":"text","text":"El NAT traduce direcciones publicas a privadas y privadas a publicas para garantizar el correcto funcionamiento del internet "}
+	],
+	"edges":[
+		{"id":"2dce76fbd2b2154a","fromNode":"8cfb1a6961b35951","fromSide":"left","toNode":"a05be3c1bbe3d740","toSide":"right"},
+		{"id":"f1470bc16b85309e","fromNode":"a05be3c1bbe3d740","fromSide":"right","toNode":"8cfb1a6961b35951","toSide":"left","label":"Direcciones\nPublicas\nUnicas"},
+		{"id":"653edffbd48ffe6e","fromNode":"0f6c71da0c788cb4","fromSide":"right","toNode":"38e93b3524389cdd","toSide":"left","label":"192.168.0.4"},
+		{"id":"371ab17645f97c49","fromNode":"2920821282589542","fromSide":"right","toNode":"38e93b3524389cdd","toSide":"left","label":"192.168.0.2"},
+		{"id":"4f2adcc3572b196e","fromNode":"f4159f1ecef57b7c","fromSide":"right","toNode":"38e93b3524389cdd","toSide":"left","label":"192.168.0.3"},
+		{"id":"25900c8b67f6223d","fromNode":"38e93b3524389cdd","fromSide":"right","toNode":"2722412ec1f42f7f","toSide":"left"},
+		{"id":"ee24e34a89717f3d","fromNode":"2722412ec1f42f7f","fromSide":"left","toNode":"38e93b3524389cdd","toSide":"right"},
+		{"id":"30b4e42d4c89b42c","fromNode":"38e93b3524389cdd","fromSide":"left","toNode":"0f6c71da0c788cb4","toSide":"right"},
+		{"id":"853808ab6ad6347d","fromNode":"38e93b3524389cdd","fromSide":"left","toNode":"2920821282589542","toSide":"right"},
+		{"id":"7caecac6911316de","fromNode":"38e93b3524389cdd","fromSide":"left","toNode":"f4159f1ecef57b7c","toSide":"right"}
+	]
+}

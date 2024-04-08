@@ -3,7 +3,7 @@
 Este va a ser el orden en el que voy a estudiar las cosas para poder convertirme en un pentester, voy a empezar estudiando fundamentos y cosas intermedias en platzi y voy a estar ahi hasta que me sienta comodo con mis bases.
 
 
-# #Cursos
+# Cursos
 
 ### ***Curso para aprender en linea efectivamente***
 [[Guia de estudio - Aprender en linea efectivamente]]
@@ -20,6 +20,7 @@ Fecha de inicio:
 Fecha de finalizacion estimada:
 - 5/4/24
 Fecha de finalizacion:
+- 5/4/24
 
 ### ***Curso avanzado de redes de internet***
 - **Categoria:**

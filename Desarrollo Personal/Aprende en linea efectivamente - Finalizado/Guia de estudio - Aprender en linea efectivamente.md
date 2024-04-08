@@ -9,7 +9,8 @@
 	    - Aprender como mejorar la calidad de mi estudio para poder hacerlo de manera mas eficiente
     - 👉**Meta de Tiempo:**
 		- ***Iniciado el 31/3/24***
-		- ***Finalizado en tiempo y forma el 2/4/24***
+		- ***Finalizacion estimada 2/4/24***
+			- ***Finalizado el 2/4/24***
 	    - 2 Horas de contenido
 	    - 6 Horas de practica
 		    - 8 horas en total

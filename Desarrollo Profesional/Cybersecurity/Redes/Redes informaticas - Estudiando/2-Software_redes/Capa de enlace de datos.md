@@ -1,6 +1,6 @@
 # Capa de enlace de datos
 ![[Pasted image 20240403152214.png]]
-Segunda capa del [[EL modelo OSI]], recibe peticiones de la [[Capa de red]] y utilizar los servicios de la [[Capa fisica]]. Encargada de evitar que la informacion se transmita con errores y el control de acceso al medio.
+Segunda capa del [[EL modelo OSI]], recibe peticiones de la [[Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red]] y utilizar los servicios de la [[Capa fisica]]. Encargada de evitar que la informacion se transmita con errores y el control de acceso al medio.
 
 Esta capa divide los datos en *tramas* para asegurarse que no sean muy chicos (*runts*) ni muy grandes (*giants*), tambien *verifica* que se hayan recibido bien los datos.
 

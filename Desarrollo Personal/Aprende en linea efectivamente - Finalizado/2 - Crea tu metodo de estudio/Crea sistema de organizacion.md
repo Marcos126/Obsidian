@@ -50,8 +50,8 @@ Hay que entenderlos como 3 sistemas por separado que funcionan en conjunto, no c
 - Este, es nuestro peor enemigo, cuando trabajamos desorganizados y estamos ocupados todo el dia pero no conseguimos completar nuestras actividades de manera ***EFICIENTE***
 
 - Debemos evitarlo a toda costa y para ello vamos a ayudarnos de la Organizacion!
-
-# #Resumen
+- 
+# Resumen
 **Lista de actividades:**
 *Es la lista mas grande de las metas que queres alcanzar.*
 **Agenda diaria:**
@@ -95,9 +95,9 @@ Los colores son muy buenos para visualizar la prioridad.
 
 # #Desafio 
 
-- [ ] *Crea tu lista de actividades, tu agenda diaria y tu calendario*
+- [x] *Crea tu lista de actividades, tu agenda diaria y tu calendario*
 
-- [ ] *Elige un curso de platzi para aplicar lo aprendido.*
+- [x] *Elige un curso de platzi para aplicar lo aprendido.*
 
 # #Sintesis  
 

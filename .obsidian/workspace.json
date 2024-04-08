@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f3eeccb9c43b42",
+        "id": "80e0af73abef9cd4",
         "type": "tabs",
         "children": [
           {
-            "id": "80a4dd51870b1baf",
+            "id": "9a79318428c2ab6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb72b729f2ce79da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IP",
+                "query": "tag:#Desafio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +70,7 @@
             }
           },
           {
-            "id": "b231024426a5e92a",
+            "id": "3562aeaa64a0b5fc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 446.01103591918945,
     "collapsed": true
   },
   "right": {
@@ -92,42 +104,20 @@
             }
           },
           {
-            "id": "f238db9faf525164",
+            "id": "d3d0c3f3e0f531a4",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1d6faf0c975f7004",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md"
-              }
-            }
-          },
-          {
-            "id": "d7cf3b79aa5ef886",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "1a5328efd65cea06",
+            "id": "2598112ebb7c46b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +129,29 @@
             }
           },
           {
-            "id": "d1d174b8c2d5f6ea",
+            "id": "2eacefc3e0f0d315",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea88e6ac9de9850c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,57 +170,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80a4dd51870b1baf",
+  "active": "283f4712a6538deb",
   "lastOpenFiles": [
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de enlace de datos.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Direcciones IP y su estructura.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/Direcciones IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa fisica.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/EL modelo OSI.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de sesion.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de presentacion.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Clases de direcciones.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Todo lo que aprenderas sobre redes de internet.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Servicio de asignacion de direcciones.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Mascaras de red.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Capa de red.md",
+    "Nat.canvas",
+    "Excalidraw/Drawing 2024-04-08 00.00.20.excalidraw.md",
+    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/Guia de estudio - Redes informaticas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Nombres para humanos y maquinas.md",
+    "Pasted image 20240407010356.png",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Numeros binarios.md",
+    "Templates/Guia de estudio.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/Pasted image 20240405221858.png",
+    "Pasted image 20240405221552.png",
+    "Pasted image 20240405214836.png",
+    "Pasted image 20240405221656.png",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/Pasted image 20240406104034.png",
+    "Untitled 1.canvas",
+    "raro.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/raro.canvas",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Guia de estudio - Redes de internet avanzadas.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Ejercita tu memoria.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea tu sistema de repaso.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea sistema de organizacion.md",
+    "Informatica/Developer/ArchLinux/Arch Linux Installation.md",
+    "Plan de estudio general.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea tu sistema de apuntes.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Untitled.md",
+    "Untitled.md",
+    "Informatica/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/1-Conceptos_basicos/Que son bits y bytes.md",
+    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/2-Software_redes/Direcciones IP y su estructura.md",
+    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/1-Conceptos_basicos/Importancia de las redes computacionales.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/5 - Identificar y mejorar la seguridad en la red",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/3 -Identificar caracteristicas de enrutamiento",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando",
+    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/Atachments/Pasted image 20240405150423.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404013419_763.png",
     "Pasted image 20240405150423.png",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de aplicacion.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/4-Conclusion_curso/Conclucion y cierre.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos y como dibujar redes.excalidraw.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos para dibujar arquitecturas de red.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Dispositivos de red y como funcionan.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/Antecedentes de las redes computacionales.md",
-    "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
-    "Desarrollo Personal/Curso de finanzas personales - Estudiando/Guia de estudio - Finanzas personales.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/Guia de estudio - Aprender en linea efectivamente.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Protocolos de red.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Modelo TCP_IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/El cable de par trenzado.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Diferencias modelo OSI y TCP_IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Asignacion de direcciones IP.md",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/FTP.md",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104146.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104033.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034653.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034439.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034336.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034212.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331033936.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331033554.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331032931.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/1 - Preparate para prender en linea/0-Imagenes",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/7-imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/6-imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/5-imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/4-imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/3-imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/2-Imagenes",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/1-imagenes",
-    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Desarrollo Profesional/Developer/Git y github - Estudiando/Git Work flow.canvas",
+    "Informatica/Developer/Git y github - Estudiando/Git Work flow.canvas",
     "Git y github - Estudiando/Git Work flow.canvas",
     "Git y github/Git Work flow.canvas"
   ]

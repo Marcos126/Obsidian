@@ -1,0 +1,31 @@
+- **👩👨Profesor/a**:
+	- Isabel Yepes
+- **💻Plataforma**:
+	- [Platzi](https://platzi.com/cursos/avanzado-redes/)
+- **🎯 Objetivo de Aprendizaje:**
+    - 👉**Tipo**: #DesarrolloProfesional #Fundamentos #Informatica 
+    - 👉**Objetivo:** Aprender redes informaticas a un nivel avanzado para ganar soltura en el tema
+    - 👉**Meta de Tiempo:**
+	    - ***Inicio: 5/4/2024***
+		- ***Finalizacion estimada:9/2/24***
+			- ***Finalizacion:***
+		- 3 Horas de contenido
+		- 10 Horas de practica
+			- 13 Horas en total
+				- 4 Horas por dia = 4 dias
+    - 👉**Bloques:**	
+		- Profundizar en direccionamiento avanzado
+		- Comprender los servicios de red
+				- Identificar caracteristicas de enrutamiento
+		- Diseñar y ejecutar redes locales conmutadas
+		- Identificar y mejorar la seguridad en la red
+
+- 📕 **El Curso en un párrafo o idea:**
+	- Profundizar en el conocimiento de redes de internet
+- **🤔 Preguntas Iniciales:**
+- ¿Como funcionan las mascaras de red?
+- ¿Como se diseña una red ?
+- ¿Que son las rutas estaticas y dinamicas?
+- ¿Que es la topologia LAN?
+- ¿Como se configuran las redes inalambricas?
+- ✅ **Ideas más importantes del libro:**

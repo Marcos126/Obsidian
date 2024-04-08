@@ -12,7 +12,7 @@
 - [[Capa de enlace de datos]]:
 	- Se hace el direccionamiento fisico
 		- [[Direcciones MAC]]
-- [[Capa de red]]:
+- [[Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red]]:
 	- Se define una ruta y direccionamiento
 - [[Capa de transporte]]:
 	- Coneccion punto a punto y confiabilidad

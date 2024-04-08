@@ -33,7 +33,7 @@
 - Crea un borrador de tus notas a medida que vas viendo la clase, marca los puntos clave, cuando termine la clase, agregas informacion a los puntos clave, le das un formato bonito y lo almacenas por categorias para un facil acceso.
 
 # Desafio
-- [x] Crear tu primer  #SistemaDeNotas en un curso de platzi ✅ 2024-04-01
+- [x] Crear tu primer  SistemaDeNotas en un curso de platzi ✅ 2024-04-01
 
 # Metodo Zettelkasten
 Este metodo consiste en entrelazar ideas, cosa que voy a conseguir utilizando obsidian

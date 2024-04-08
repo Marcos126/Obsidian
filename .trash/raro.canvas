@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f483217799c962a6","type":"text","text":"20 numeros 0, si $2^20 - 2$ = hosts, hay 1.048.574 disponibles","x":-1040,"y":26,"width":693,"height":60},
+		{"id":"46e630c591fbeead","type":"text","text":"12 numeros 1","x":-1480,"y":26,"width":440,"height":60},
+		{"id":"ac09351d2c0c0585","type":"file","file":"Pasted image 20240405221656.png","x":-1480,"y":-160,"width":1133,"height":186}
+	],
+	"edges":[]
+}

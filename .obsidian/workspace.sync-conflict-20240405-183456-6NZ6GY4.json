@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "59745a48137f9229",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f3eeccb9c43b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a4dd51870b1baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93e892b44e4430fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3352decbf80ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "283f4712a6538deb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42cb4d63e8a5e70a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "IP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b231024426a5e92a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ec9bf48909f0b26e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31b9030467b7ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615e00ed15535f94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f238db9faf525164",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d6faf0c975f7004",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md"
+              }
+            }
+          },
+          {
+            "id": "d7cf3b79aa5ef886",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a5328efd65cea06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d174b8c2d5f6ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "80a4dd51870b1baf",
+  "lastOpenFiles": [
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Atachments/Pasted image 20240405150423.png",
+    "Excalidraw/Arquitectura de redes/Pasted Image 20240404013419_763.png",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de enlace de datos.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de transporte.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Direcciones IP y su estructura.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/Direcciones IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa fisica.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/EL modelo OSI.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de sesion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de presentacion.md",
+    "Pasted image 20240405150423.png",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de aplicacion.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Guia de estudio - Redes informaticas.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/4-Conclusion_curso/Conclucion y cierre.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos y como dibujar redes.excalidraw.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Simbolos para dibujar arquitecturas de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/3-Hardware_redes/Dispositivos de red y como funcionan.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/1-Conceptos_basicos/Antecedentes de las redes computacionales.md",
+    "Desarrollo Profesional/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+    "Desarrollo Personal/Curso de finanzas personales - Estudiando/Guia de estudio - Finanzas personales.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/Guia de estudio - Aprender en linea efectivamente.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Protocolos de red.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Modelo TCP_IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/El cable de par trenzado.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Diferencias modelo OSI y TCP_IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Asignacion de direcciones IP.md",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/Informacion varia/FTP.md",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104146.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104033.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034653.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034439.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034336.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331034212.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331033936.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240331033554.png",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/1 - Preparate para prender en linea/0-Imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/7-imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/6-imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/5-imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/4-imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/3-imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/2-Imagenes",
+    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/1-imagenes",
+    "Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/2-Model_TCP_IP",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Desarrollo Profesional/Developer/Git y github - Estudiando/Git Work flow.canvas",
+    "Git y github - Estudiando/Git Work flow.canvas",
+    "Git y github/Git Work flow.canvas"
+  ]
+}

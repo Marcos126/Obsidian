@@ -28,7 +28,7 @@
 				- [[El cable de par trenzado]]
 				- [[Capa de enlace de datos]]
 				- [[Direcciones MAC]]
-				- [[Capa de red]]
+				- [[Desarrollo Profesional/Cybersecurity/Redes/Redes informaticas - Estudiando/2-Software_redes/Capa de red]]
 				- [[Capa de transporte]]
 				- [[Capa de sesion]]
 				- [[Capa de presentacion]]

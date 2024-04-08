@@ -4,8 +4,9 @@
     - 👉**Tipo**:
     - 👉**Objetivo:** 
     - 👉**Meta de Tiempo:**
-	    - **Fecha de inicio:**
-	    - **Fecha de finalizacion estimada:**
+	    - ***Inicio:***
+		- ***Finalizacion estimada:***
+			- ***Finalizacion:***
     - 👉**Bloques:**
 - 📕 **El Curso en un párrafo o idea:**
 - **🤔 Preguntas Iniciales:**
