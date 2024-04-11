@@ -8,7 +8,7 @@
     - 👉**Meta de Tiempo:**
 	    - ***Inicio: 5/4/2024***
 		- ***Finalizacion estimada:9/2/24***
-			- ***Finalizacion:***
+			- ***Finalizacion:10/4/24***
 		- 3 Horas de contenido
 		- 10 Horas de practica
 			- 13 Horas en total

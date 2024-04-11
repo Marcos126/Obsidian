@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "strictLineBreaks": false,
+  "vimMode": true
 }

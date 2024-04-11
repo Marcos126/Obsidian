@@ -20,9 +20,10 @@ Fecha de inicio:
 Fecha de finalizacion estimada:
 - 5/4/24
 Fecha de finalizacion:
-- 5/4/24
+- **5/4/24**
 
 ### ***Curso avanzado de redes de internet***
+[[Guia de estudio - Redes de internet avanzadas]]
 - **Categoria:**
 	- Fundamentos
 - **Explicacion:**
@@ -97,10 +98,6 @@ Fecha de finalizacion:
 - **Explicacion:**
 	- Aca aprendemos las habilidades que necesitamos y a que nos enfrentamos en el pentesting.
 - **Partes:**
-	- Introduccion al pentesting.
-	- Ciclo de vida del pentesting.
-	- Introduccion a los exploits.
-	- Tecnicas de ataque miscelaneos.
 - **Deadline:**
 	- 3 Dias desde el inicio
 - **Profesor:**

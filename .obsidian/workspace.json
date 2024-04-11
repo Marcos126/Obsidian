@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "80e0af73abef9cd4",
+        "id": "c2b442ac1e121961",
         "type": "tabs",
         "children": [
           {
-            "id": "9a79318428c2ab6e",
+            "id": "43b2fc640dad36e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb72b729f2ce79da",
+            "id": "4d9a089cdcf8a6e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md",
+                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.01103591918945,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md"
+                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,44 +170,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "283f4712a6538deb",
+  "active": "43b2fc640dad36e6",
   "lastOpenFiles": [
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Clases de direcciones.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Configuracion de redes inalambricas.md",
+    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Guia de estudio - Introduccion al pentesting.md",
+    "Plan de estudio general.md",
+    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Attatchments",
+    "Templates/Guia de estudio.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Todo lo que aprenderas sobre redes de internet.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Servicio de asignacion de direcciones.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Numeros binarios.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Mascaras de red.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Clases de direcciones.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Capa de red.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Guia de estudio - Redes de internet avanzadas.md",
+    "Informatica/Cybersecurity/Guia de estudio - Seguridad informatica.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Rutas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Servicio de asignacion de direcciones.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Nombres para humanos y maquinas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Ejecucion de la topologia LAN.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Redes inalambricas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Necesidades de la topologia LAN.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Diseño de redes inalambricas.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Equipos activos LAN.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Separacion de grupo VLAN.md",
+    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas/Enlaces troncales.md",
     "Nat.canvas",
     "Excalidraw/Drawing 2024-04-08 00.00.20.excalidraw.md",
     "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/Guia de estudio - Redes informaticas.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/2 - Comprender los servicios de red/Nombres para humanos y maquinas.md",
     "Pasted image 20240407010356.png",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Numeros binarios.md",
-    "Templates/Guia de estudio.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/Pasted image 20240405221858.png",
     "Pasted image 20240405221552.png",
     "Pasted image 20240405214836.png",
     "Pasted image 20240405221656.png",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/Pasted image 20240406104034.png",
     "Untitled 1.canvas",
-    "raro.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/raro.canvas",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Guia de estudio - Redes de internet avanzadas.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Ejercita tu memoria.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea tu sistema de repaso.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea sistema de organizacion.md",
-    "Informatica/Developer/ArchLinux/Arch Linux Installation.md",
-    "Plan de estudio general.md",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/Crea tu sistema de apuntes.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Untitled.md",
-    "Untitled.md",
-    "Informatica/Cybersecurity/Guia de estudio - Seguridad informatica.md",
-    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/1-Conceptos_basicos/Que son bits y bytes.md",
-    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/2-Software_redes/Direcciones IP y su estructura.md",
-    "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/1-Conceptos_basicos/Importancia de las redes computacionales.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/5 - Identificar y mejorar la seguridad en la red",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/4 - Diseñar y ejecutar redes locales conmutadas",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/3 -Identificar caracteristicas de enrutamiento",
@@ -220,7 +221,6 @@
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104146.png",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/1 - Preparate para prender en linea/0-Imagenes",
     "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/2 - Crea tu metodo de estudio/7-imagenes",
     "Untitled 2.canvas",
     "Informatica/Developer/Git y github - Estudiando/Git Work flow.canvas",
     "Git y github - Estudiando/Git Work flow.canvas",
