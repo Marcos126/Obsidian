@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8bdf00607776b849","type":"file","file":"Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md","x":-700,"y":-1120,"width":850,"height":860},
+		{"id":"8bdf00607776b849","type":"file","file":"Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md","x":-700,"y":-1120,"width":850,"height":860},
 		{"id":"a05be3c1bbe3d740","type":"text","text":"Direcciones \nPrivadas\nRepetidas","x":240,"y":-597,"width":180,"height":120},
 		{"id":"8cfb1a6961b35951","type":"text","text":"Direcciones \nprivadas \nrepetidas","x":880,"y":-594,"width":180,"height":115},
 		{"id":"17ea004d24068944","type":"text","text":"NAT(Servicio de traduccion de direcciones), sirve como intermediario entre las direcciones privadas de tu red y la direccion publica de tu modem, para que no se mezclen las peticiones de las maquinas.","x":460,"y":-900,"width":360,"height":303},

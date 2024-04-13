@@ -20,7 +20,7 @@ Fecha de inicio:
 Fecha de finalizacion estimada:
 - 5/4/24
 Fecha de finalizacion:
-- **5/4/24**
+- **6/4/24** :c
 
 ### ***Curso avanzado de redes de internet***
 [[Guia de estudio - Redes de internet avanzadas]]
