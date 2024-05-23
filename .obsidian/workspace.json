@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9481134cea91263a",
+        "id": "f6612e29db24a466",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc215afb537a22c",
+            "id": "3244b591bfb18eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
+                "file": "S4vitar/enumerationTools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Desafio",
+                "query": "------------------------------------------------------------------------------------------------------------------",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416,
-    "collapsed": true
+    "width": 416
   },
   "right": {
     "id": "ec9bf48909f0b26e",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
+                "file": "S4vitar/enumerationTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
+                "file": "S4vitar/enumerationTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md"
+                "file": "S4vitar/enumerationTools.md"
               }
             }
           }
@@ -158,20 +157,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dc215afb537a22c",
+  "active": "3244b591bfb18eb1",
   "lastOpenFiles": [
-    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Guia de estudio - Introduccion al pentesting.md",
-    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
-    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Untitled",
+    "S4vitar/fuzzingTools.md",
+    "S4vitar/enumerationTools.md",
+    "HackingSavitar/pruebas/docker/CVE-2014-0160/docker-compose.yml~",
+    "HackingSavitar/pruebas/docker/CVE-2014-0160/www/index.html",
+    "HackingSavitar/pruebas/docker/CVE-2014-0160/www",
+    "HackingSavitar/pruebas/docker/CVE-2014-0160/docker-compose.yml",
+    "HackingSavitar/pruebas/docker/CVE-2014-0160",
+    "HackingSavitar/Paginas.md",
+    "HackingSavitar/hostdiscoveryTools.md",
+    "HackingSavitar/fuzzingTools.md",
+    "S4vitar/Untitled.md",
     "Plan de estudio general.md",
+    "S4vitar",
+    "Attachments/Pasted image 20240505031406.png",
+    "Attachments/Pasted image 20240505031219.png",
+    "HTB/Maquinas/Tier-0/1 - Meow.md",
+    "HTB/Maquinas/Tier-2",
+    "HTB/Maquinas/Tier-1",
+    "HTB/Maquinas/Tier-0",
+    "HTB/Maquinas",
+    "HTB/HTTP.md",
+    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Introduccion al pentesting.md",
+    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Guia de estudio - Introduccion al pentesting.md",
     "Attachments/Pasted image 20240407010356.png",
     "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/Nat.canvas",
     "HTB/Introduccion.md",
     "HTB/Job Roles.md",
-    "HTB",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/1- Profundizar en el direccionamiento avanzado/Diseño de Direccionamiento.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Configuracion de redes inalambricas.md",
-    "Informatica/Cybersecurity/Pentesting/Introduccion a pentesting - Estudiando/Attatchments",
     "Templates/Guia de estudio.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/1- Profundizar en el direccionamiento avanzado/Direciones publicas y privadas.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/1- Profundizar en el direccionamiento avanzado/Todo lo que aprenderas sobre redes de internet.md",
@@ -183,13 +199,6 @@
     "Informatica/Cybersecurity/Guia de estudio - Seguridad informatica.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/2 - Comprender los servicios de red/Rutas.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/2 - Comprender los servicios de red/Servicio de asignacion de direcciones.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/2 - Comprender los servicios de red/Nombres para humanos y maquinas.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Ejecucion de la topologia LAN.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Redes inalambricas.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Necesidades de la topologia LAN.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Diseño de redes inalambricas.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Equipos activos LAN.md",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas/Separacion de grupo VLAN.md",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/Attachments/Pasted image 20240405221858.png",
     "Pasted image 20240405221552.png",
     "Pasted image 20240405214836.png",
@@ -197,17 +206,8 @@
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/Attachments/Pasted image 20240406104034.png",
     "Untitled 1.canvas",
     "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/Attachments/raro.canvas",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/Attachments",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/5 - Identificar y mejorar la seguridad en la red",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/4 - Diseñar y ejecutar redes locales conmutadas",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - estudiando/3 -Identificar caracteristicas de enrutamiento",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/2 - Comprender los servicios de red",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado/1- Profundizar en el direccionamiento avanzado",
-    "Informatica/Cybersecurity/Redes/Redes de internet avanzadas - Terminado",
     "Informatica/Cybersecurity/Redes/Redes informaticas - Finalizado/Atachments/Pasted image 20240405150423.png",
     "Excalidraw/Arquitectura de redes/Pasted Image 20240404013419_763.png",
-    "Pasted image 20240405150423.png",
-    "Desarrollo Personal/Aprende en linea efectivamente - Finalizado/atachments/Pasted image 20240401104146.png",
     "Untitled 2.canvas",
     "Informatica/Developer/Git y github - Estudiando/Git Work flow.canvas",
     "Git y github - Estudiando/Git Work flow.canvas",
