@@ -6,7 +6,6 @@ En esta pagina se pueden encontrar de personas relacionadas con empresas, esto p
 para la fase de recoleccion de inteligencia.
 
 
-
 # http://intelx.io
 Pagina de pago para recoleccion de inteligencia, numeros de telefono, correos electronicos
 passwords filtradas en ataques anteriores, de todo.

@@ -13,5 +13,12 @@
 
 
 # Herramientas para pentesting de Magento 
-- [[magescan]]: Escanea paginas que utilizan magento para identificar vulnerabilidades de seguridad o problemas de configuracion
+- [[magescan]][^1]: Escanea paginas que utilizan magento para identificar vulnerabilidades de seguridad o problemas de configuracion
+- [[Burpsuite]][^2]: Herramienta utilizada para enviar y analizar peticiones y respuestas entre el navegador y el servidor, pudiendo manipular datos y demas.
+- [[OWASP-ZAP]][^3]: Una herramienta que puede ser utilizada para realizar pruebas de penetración y encontrar vulnerabilidades de XSS, CSRF, y muchas otras.
 
+------------------
+## Referencias
+[^1]: Enlace al repositorio de github de Magescan: [Enlace](https://github.com/steverobbins/magescan)
+[^2]: Enlace a la pagina de BurpSuite: [Enlace](https://portswigger.net/burp)
+[^3]: Enlace a la pagina de Owasp-Zap: [Enlace](https://www.zaproxy.org/)

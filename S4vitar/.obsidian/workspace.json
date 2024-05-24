@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "57606cea234aea13",
+        "id": "12b5654ba07d183d",
         "type": "tabs",
         "children": [
           {
-            "id": "25fea12399764406",
+            "id": "18057934278ab69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMS/Magento.md",
-                "mode": "preview",
+                "file": "Herramientas/BurpSuite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "778aeeeafdd74520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMS/Joombla/Joombla.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMS/Magento.md",
+                "file": "CMS/Joombla/Joombla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMS/Magento.md",
+                "file": "CMS/Joombla/Joombla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMS/Magento.md"
+                "file": "CMS/Joombla/Joombla.md"
               }
             }
           }
@@ -147,8 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25fea12399764406",
+  "active": "778aeeeafdd74520",
   "lastOpenFiles": [
+    "CMS/Joombla/Joomscan.md",
+    "CMS/Drupal/Drupal.md",
+    "CMS/Drupal/Droopescan.md",
+    "Untitled.md",
+    "Herramientas/BurpSuite.md",
+    "Herramientas/OWASP-ZAP.md",
+    "vulnerabilidades/Cross-Site_Request_Forgery(CSRF).md",
+    "vulnerabilidades/Cross-Site_Scripting(XSS).md",
+    "CMS/Magento/Magento.md",
+    "CMS/Magento/magescan.md",
     "Herramientas/wpscan.md~",
     "CMS/Magento.md~",
     "CMS/Magento.md",
@@ -156,8 +179,6 @@
     "CMS/WordPress.md",
     "vulnerabilidades/SQL-Inyeccion.md",
     "vulnerabilidades/SQL-Inyeccion.md~",
-    "vulnerabilidades/Cross-Site_Request_Forgery(CSRF).md",
-    "vulnerabilidades/Cross-Site_Scripting(XSS).md",
     "vulnerabilidades/Remote_Code_Execution(RCE).md",
     "Herramientas/magescan.md",
     "Herramientas/wpscan.md",
@@ -168,10 +189,8 @@
     "vulnerabilidades/SQL-Inyeccion",
     "vulnerabilidades/InyeccionSQL",
     "vulnerabilidades/Cross-SiteScripting(XSS)",
-    "vulnerabilidades/Cross-Site Scripting (XSS)",
     "CMS/Drupal.md",
     "enumerationTools.md",
-    "Untitled.md",
     "fuzzingTools.md",
     "hostdiscoveryTools.md"
   ]

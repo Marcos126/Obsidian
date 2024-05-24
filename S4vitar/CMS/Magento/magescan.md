@@ -27,5 +27,5 @@ php magescan.phar scan:server http://example.com
 -----------
 # Referencias
 
-[^1]: MageScan  [Github](https://github.com/steverobbins/magescan)
+[^1]: Enlace a el repositorio de magescan en Github:    [Enlace](https://github.com/steverobbins/magescan)
 
